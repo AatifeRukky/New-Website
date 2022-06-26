@@ -1,1 +1,1 @@
-alert ("Welcome!Kindly subscribe for our Newsletters");
+//alert ("Welcome!Kindly subscribe for our Newsletters");
